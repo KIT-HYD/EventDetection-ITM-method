@@ -21,7 +21,7 @@ The ED method comes with ABSOLUTELY NO WARRANTY. You are welcome to modify and r
 
 ## Usage
 
-1. Download code as a zip file [here](https://github.com/KIT-HYD/EventDetection/archive/master.zip) or using git. You may need to download the files from `example_dataset/` separately
+1. Download code as a zip file [here](https://github.com/KIT-HYD/EventDetection/archive/master.zip) or using git. You may need to download the files from `example_dataset/` separately.
 2. Add the `functions/` folder to MATLAB path.
 3. Navigate to the `scripts/` folder in MATLAB working directory.
 4. See the included scripts and datasets for an example usage, and modify as necessary for your dataset.

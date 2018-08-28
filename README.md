@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1404638.svg)](https://doi.org/10.5281/zenodo.1404638)
+
 # Event Detection Method Based on Information Theory
 
 In the ED method, we propose a data-driven approach based on Information Theory to automatically identify rainfall-runoff events in discharge time series. The final objective of the predictive model is to reflect (by means of probability) the users' Yes/No event decision and to more easily reproduce this classification patterns over a longer period of time or in a consistent new data set. 

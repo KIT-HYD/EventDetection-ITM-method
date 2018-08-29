@@ -8,7 +8,7 @@ The approach permits any data to serve as predictors. Each choice of a particula
 
 The codes and data sets are complementary parts of the study proposed by Thiesen, Darscheid and Ehret (2018):
 
->_Thiesen, S., Darscheid, P., Ehret, U.: Identifying rainfall-runoff events in discharge time series: A data-driven method based on Information Theory. 2018._ 
+>_Thiesen, S., Darscheid, P., and Ehret, U.: Identifying rainfall-runoff events in discharge time series: A data-driven method based on Information Theory, Hydrol. Earth Syst. Sci. Discuss., https://doi.org/10.5194/hess-2018-427, in review, 2018._ 
 
 
 ## License agreement
